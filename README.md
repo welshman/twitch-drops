@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-git clone https://github.com/kinsoRick/twitch-drops.git
+git clone https://github.com/welshman/twitch-drops.git
 cd twitch-drops 
 pip install -r requirements
 ```
