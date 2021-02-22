@@ -14,10 +14,6 @@ pip install -r requirements
 python drops.py
 ```
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check issues page. 
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
