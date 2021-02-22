@@ -30,19 +30,6 @@ def check_online():
     elif offline == False:
         return True
 
-def delete_streamer(streamer):
-    Streamers.remove(streamer)
-    try:
-        with open("streamers.txt", "r") as f:
-            lines = f.readlines()
-        with open("streamers.txt", "w") as f:
-            for line in lines:
-                if line.strip("\n") != streamer:
-                    f.write(line)
-    except:
-        pass
-
-
 RETURN = 0
 LAST_PERCENT = 0
 
@@ -147,7 +134,6 @@ while(True):
             if (percent) >= 99:
                 sleep(130)
                 if RETURN == 0:
-                    delete_streamer(element)
                     claim_reward(element)
                 RETURN = 0
                 break
