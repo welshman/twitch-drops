@@ -3,15 +3,14 @@
 ## Install
 
 ```sh
-git clone https://github.com/welshman/twitch-drops.git
-cd twitch-drops 
-pip install -r requirements
+- git clone https://github.com/welshman/twitch-drops.git
+- Open Install.bat
 ```
 
 ## Usage
 
 ```sh
-python drops.py
+- Open Start.bat
 ```
 
 ## Show your support
