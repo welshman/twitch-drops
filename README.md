@@ -13,6 +13,12 @@
 - Open Start.bat
 ```
 
+## Screenshot
+
+Image of collectect drops on 28/02/2021
+<p>
+https://i.imgur.com/BeLdxMz.jpg
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
