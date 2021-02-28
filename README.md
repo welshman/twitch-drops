@@ -15,7 +15,7 @@
 
 ## Screenshot
 
-Image of collectect drops on 28/02/2021
+Image of drops on 28/02/2021
 <p>
 https://i.imgur.com/BeLdxMz.jpg
 
