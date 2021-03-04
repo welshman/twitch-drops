@@ -41,6 +41,9 @@ https://www.twitch.tv/Lyreken
 https://www.twitch.tv/SillyAW
 https://www.twitch.tv/EliteDangerous
 https://www.twitch.tv/FrontierDevelopments
+https://www.twitch.tv/FredaikisTest
+https://www.twitch.tv/Chupacabra
+https://www.twitch.tv/pay1day
 https://www.twitch.tv/bnans
 https://www.twitch.tv/Blooprint
 https://www.twitch.tv/iRiskpvp
@@ -50,4 +53,3 @@ https://www.twitch.tv/Swales94
 https://www.twitch.tv/ricoy23
 https://www.twitch.tv/shroud
 https://www.twitch.tv/r00t9r
-https://www.twitch.tv/pay1day
