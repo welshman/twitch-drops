@@ -6,8 +6,6 @@ https://www.twitch.tv/WorldofWarships
 https://www.twitch.tv/simplgg2
 https://www.twitch.tv/itsmerenton
 https://www.twitch.tv/OOTPDevelopments
-https://www.twitch.tv/dimalitator
-https://www.twitch.tv/kharrma420
 https://www.twitch.tv/eSportsReadyRU
 https://www.twitch.tv/eSportsReadyWT
 https://www.twitch.tv/eSportsReadyDE
@@ -15,3 +13,6 @@ https://www.twitch.tv/eSportsReadyFR
 https://www.twitch.tv/eSportsReadyES
 https://www.twitch.tv/Warframe
 https://www.twitch.tv/WarframeInternational
+https://www.twitch.tv/sabotajoyun
+https://www.twitch.tv/paysonfrog
+https://www.twitch.tv/abc_tv
